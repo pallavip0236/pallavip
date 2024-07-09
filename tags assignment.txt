@@ -1,0 +1,14 @@
+ 
+CODE FOR <a>,<!--> and<link> tags:
+<!DOCTYPE html>	 
+<html> 
+<head> 
+<title>My program</title> 
+</head> 
+<body> 
+<h1>my ice parlour</h1> 
+<p> This is heaven place explore this place and enjoy this the flavours and enjoy your day.</p> 
+<a href=”https://en.wikipedia.org/wiki/Ice_cream”>read more</a> 
+<link rel="stylesheet" href="styles.css"> 
+</body> 
+</html> 
